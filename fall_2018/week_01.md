@@ -5,11 +5,15 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
+Last Week, Met with PHD student to discuss the synthetic Data Vault. Watch videos on neural network. Looked through the PHD's code base
+
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
 > Examples: New Bugs to be fixed, Design choices
+
+Learn more about Neural Networks and Machine Learning and try to get a better idea of the workflow for the private data service
 
 ## Anything Blocking?
 
@@ -17,6 +21,7 @@
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
+Blockers are that none of us really have experience in Neural Networks and Machine learning, so we are mostly learning about that stuff
 ## Notes
 
 > This is an optional section for any sort of information that does not fall under any of the other categories.
